@@ -1,0 +1,63 @@
+/* src/styles/ClientRow.css */
+
+.client-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .client-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .appointments {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  /* Style input fields */
+  input {
+    padding: 8px;
+    margin-bottom: 5px;
+  }
+  
+  /* Style the "Add Appointment" button */
+  button.add-appointment {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  /* Style the "Delete Client" button */
+  button.delete-client {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  /* Style the "Toggle Appointment Form" button */
+  button.toggle-form {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    cursor: pointer;
+  }
+  

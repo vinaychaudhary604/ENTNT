@@ -1,0 +1,45 @@
+/* src/styles/ClientList.css */
+
+.client-list {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+.client-list-head{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.green{
+  color: green;
+}
+  
+  .client-list h2 {
+    text-align: center;
+  }
+  
+  /* Style each client row */
+  .client-row {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the "Appointments" field */
+  .appointments {
+    margin-top: 10px;
+  }
+  
+  /* Style the "Add Client" button */
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

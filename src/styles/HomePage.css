@@ -1,0 +1,16 @@
+/* src/styles/HomePage.css */
+
+.home-page {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .main-content {
+    display: flex;
+    justify-content: space-between;
+  }
+.main-content, client-list-calender{
+  padding-left: 10px;
+
+}
+
