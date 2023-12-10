@@ -68,24 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-# My Fitness App
-
-## Running the Application
-
-1. Clone the repository.
-2. Navigate to the project folder.
-3. Run `npm install` to install dependencies.
-4. Run `npm start` to start the development server.
-5. Open your browser and go to http://localhost:3000.
-
-## How to Use
-
-- Use the grid to manage client appointments.
-- Click "Add Appointment" to add a new appointment for a client.
-- Click "Delete" to delete individual appointments.
-
-## Bonus: Calendar Page
-
-- Click "Show Calendar" to view appointments in a calendar format.
